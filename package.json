@@ -1,0 +1,12 @@
+{
+  "name": "performancemanagementtool",
+  "version": "1.0.0",
+  "description": "This is the backend for performance management tool",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "author": "Sangeet Sharma",
+  "license": "ISC"
+}
